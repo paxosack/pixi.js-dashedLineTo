@@ -1,3 +1,7 @@
+import * as PIXI from 'pixi.js-legacy';
+
+export default function dashedLineTo() {
+}
 PIXI.Graphics.prototype.dashedLineTo = function(toX, toY, dash = 8, gap = 10) 
 {
     let from = {
