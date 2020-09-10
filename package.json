@@ -1,0 +1,24 @@
+{
+  "name": "pixi.js-dashedlineto",
+  "version": "1.0.0",
+  "description": "Extension to PIXI.Graphics library adding a new \"dashedLineTo\" method that is a drop in replacement for \"lineTo\"",
+  "main": "dashedLineTo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paxosack/pixi.js-dashedLineTo.git"
+  },
+  "keywords": [
+    "pixi",
+    "pixijs",
+    "pixi.js"
+  ],
+  "author": "Paxosack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paxosack/pixi.js-dashedLineTo/issues"
+  },
+  "homepage": "https://github.com/paxosack/pixi.js-dashedLineTo#readme"
+}
